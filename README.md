@@ -79,6 +79,7 @@ looks _very much_ like HTML:
     allows us to add in components, which are separate, self-contained chunks of JSX.
   </p>
   <ExampleComponent />
+  
 </div>
 ```
 
